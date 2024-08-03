@@ -26,4 +26,20 @@ class Solution(object):
                     queue.append(node.right)
             result.append(cur_level)
         return result
+
+    def levelOrder_cursive(self, root):
+        if not root:
+            return []
+        result = []
+        def traverse(node, level):
+            if not node:
+                return
+            if len(result) == level:
+                result.append([])
+            result[level].append(node.val)
+            traverse(node.left, level+1)
+            traverse(node.right, level+1)
+        traverse(root, 0)
+        return result
+
         
