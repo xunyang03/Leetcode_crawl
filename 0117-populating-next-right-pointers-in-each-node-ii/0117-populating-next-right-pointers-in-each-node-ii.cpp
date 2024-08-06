@@ -24,7 +24,7 @@ public:
             nodeque.push(root);
         while (!nodeque.empty()) {
             int size = nodeque.size();
-            Node* prev = new Node(0, nullptr, nullptr, nullptr);
+            Node* prev = new Node();
             for (int i = 0; i < size; i++) {
                 Node* cur = nodeque.front();
                 nodeque.pop();
