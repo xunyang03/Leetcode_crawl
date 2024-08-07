@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/xunyang03/Leetcode_crawl/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xunyang03/Leetcode_crawl/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/xunyang03/Leetcode_crawl/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xunyang03/Leetcode_crawl/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/xunyang03/Leetcode_crawl/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xunyang03/Leetcode_crawl/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xunyang03/Leetcode_crawl/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/xunyang03/Leetcode_crawl/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xunyang03/Leetcode_crawl/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0764-n-ary-tree-level-order-traversal) |
