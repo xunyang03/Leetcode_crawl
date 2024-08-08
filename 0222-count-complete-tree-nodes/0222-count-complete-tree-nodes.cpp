@@ -25,7 +25,7 @@ public:
             rightDepth++;
         }
         if (leftDepth == rightDepth){
-            return pow(2, leftDepth) - 1;
+            return pow(2, leftDepth + 1) - 1;
         }
         return countNodes(root->left) + countNodes(root->right) + 1;
     }
