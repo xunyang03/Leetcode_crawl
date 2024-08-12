@@ -13,7 +13,7 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        if (postorder.size() == 0)
+        if (inorder.size() == 0 && postorder.size() == 0)
             return nullptr;
         int rootVal = postorder[postorder.size() - 1];
         TreeNode* root = new TreeNode(rootVal);
