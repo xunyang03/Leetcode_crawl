@@ -12,7 +12,7 @@
  */
 class Solution {
 public:
-    TreeNode* construct(vector<int>& inorder, vector<int>& postorder) {
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         if (postorder.size() == 0)
             return nullptr;
         int rootVal = postorder[postorder.size() - 1];
@@ -26,14 +26,8 @@ public:
         vector<int> right_inorder(inorder.begin() + idx + 1, inorder.end());
         vector<int> left_postorder(postorder.begin(), postorder.begin() + idx);
         vector<int> right_postorder(postorder.begin() + idx, postorder.end() - 1);
-        root->left = construct(left_inorder, left_postorder);
-        root->right = construct(right_inorder, right_postorder);
+        root->left = buildTree(left_inorder, left_postorder);
+        root->right = buildTree(right_inorder, right_postorder);
         return root;
-    }
-
-    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        if (inorder.size() == 0 && postorder.size() == 0)
-            return nullptr;
-        return construct(inorder, postorder);
     }
 };
