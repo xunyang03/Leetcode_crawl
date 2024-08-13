@@ -10,20 +10,22 @@
  * };
  */
 class Solution {
+private:
+    int cnt_;
 public:
-    int coinNodeCount(TreeNode* node, int& cnt){
+    int coinNodeCount(TreeNode* node){
         if (node == nullptr)
             return 0;  
-        int leftcnt = coinNodeCount(node->left, cnt);
-        int rightcnt = coinNodeCount(node->right, cnt);
-        cnt += abs(leftcnt) + abs(rightcnt);        
+        int leftcnt = coinNodeCount(node->left);
+        int rightcnt = coinNodeCount(node->right);
+        cnt_ += abs(leftcnt) + abs(rightcnt);        
         return leftcnt + rightcnt + node->val - 1;
     }
     
     int distributeCoins(TreeNode* root) {
         if (root == nullptr) return 0;
-        int result = 0;
-        coinNodeCount(root, result);
-        return result;
+        cnt_ = 0;
+        coinNodeCount(root);
+        return cnt_;
     }
 };
