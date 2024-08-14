@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0783-search-in-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/xunyang03/Leetcode_crawl/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0654-maximum-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0783-search-in-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0654-maximum-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
