@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/xunyang03/Leetcode_crawl/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/xunyang03/Leetcode_crawl/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/xunyang03/Leetcode_crawl/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/xunyang03/Leetcode_crawl/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/xunyang03/Leetcode_crawl/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xunyang03/Leetcode_crawl/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/xunyang03/Leetcode_crawl/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0838-design-linked-list) |
 ## String
