@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xunyang03/Leetcode_crawl/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0838-design-linked-list) |
 ## String
 |  |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0838-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
