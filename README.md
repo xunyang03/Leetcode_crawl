@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xunyang03/Leetcode_crawl/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/xunyang03/Leetcode_crawl/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xunyang03/Leetcode_crawl/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/xunyang03/Leetcode_crawl/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xunyang03/Leetcode_crawl/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/xunyang03/Leetcode_crawl/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/xunyang03/Leetcode_crawl/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
