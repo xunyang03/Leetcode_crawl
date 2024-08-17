@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xunyang03/Leetcode_crawl/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0838-design-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0838-design-linked-list) |
 ## String
 |  |
 | ------- |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xunyang03/Leetcode_crawl/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0783-search-in-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/xunyang03/Leetcode_crawl/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
