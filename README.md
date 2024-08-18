@@ -270,4 +270,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/xunyang03/Leetcode_crawl/tree/master/0202-happy-number) |
+| [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
