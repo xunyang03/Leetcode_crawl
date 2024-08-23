@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/xunyang03/Leetcode_crawl/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/xunyang03/Leetcode_crawl/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/xunyang03/Leetcode_crawl/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xunyang03/Leetcode_crawl/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/xunyang03/Leetcode_crawl/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/xunyang03/Leetcode_crawl/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/xunyang03/Leetcode_crawl/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xunyang03/Leetcode_crawl/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/xunyang03/Leetcode_crawl/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xunyang03/Leetcode_crawl/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0783-search-in-a-binary-search-tree) |
