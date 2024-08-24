@@ -6,14 +6,13 @@
 #         self.right = right
 class Solution(object):
     def __init__(self):
-        sum
+        self.sum = 0
 
     def convertBST(self, root):
         """
         :type root: TreeNode
         :rtype: TreeNode
         """
-        self.sum = 0
         def recurse(root):
             if root is None:
                 return root
