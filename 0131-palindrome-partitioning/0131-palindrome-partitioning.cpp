@@ -3,10 +3,9 @@ private:
     vector<vector<string>> result;
     vector<string> combo;
 public:
-    const bool isPalindrome(const string& s) {
-        int middle = s.size() / 2;
-        for (int i = 0; i < middle; i++) {
-            if (s[i] != s[s.size() - i - 1])
+    const bool isPalindrome(const string& s, int start, int end) {
+        for (int i = start, j = end; i < j; i++, j--) {
+            if (s[i] != s[j])
                 return false;
         }
         return true;
@@ -17,12 +16,10 @@ public:
             result.push_back(combo);
             return;
         }
-
         for (int i = startIdx; i < s.size(); i++) {
-            string ss = s.substr(startIdx, i - startIdx + 1);
-            if (!isPalindrome(ss))
+            if (!isPalindrome(s, startIdx, i))
                 continue;
-            combo.push_back(ss);
+            combo.push_back(s.substr(startIdx, i - startIdx + 1));
             findCombo(s, i + 1);
             combo.pop_back();
         }
