@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xunyang03/Leetcode_crawl/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/xunyang03/Leetcode_crawl/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/xunyang03/Leetcode_crawl/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/xunyang03/Leetcode_crawl/tree/master/0459-repeated-substring-pattern) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/xunyang03/Leetcode_crawl/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
@@ -310,5 +312,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
