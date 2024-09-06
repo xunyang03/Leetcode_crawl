@@ -2,8 +2,7 @@ class Solution {
 private:
     vector<vector<int>> result;
     vector<int> combo;
-    int sum = 0;
-    void findCombo(vector<int>& candidates, int target, int startIdx){
+    void findCombo(vector<int>& candidates, int target, int startIdx, int sum){
         if (sum > target)
             return;
         if (sum == target){
@@ -16,7 +15,7 @@ private:
             }
             combo.push_back(candidates[i]);
             sum += candidates[i];
-            findCombo(candidates, target, i + 1);
+            findCombo(candidates, target, i + 1, sum);
             sum -= candidates[i];
             combo.pop_back();
         }
@@ -25,7 +24,7 @@ public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         result.clear();
         sort(candidates.begin(), candidates.end());
-        findCombo(candidates, target, 0);
+        findCombo(candidates, target, 0, 0);
         return result;
     }
 };
