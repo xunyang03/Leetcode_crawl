@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xunyang03/Leetcode_crawl/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xunyang03/Leetcode_crawl/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
 | [0654-maximum-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xunyang03/Leetcode_crawl/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xunyang03/Leetcode_crawl/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/xunyang03/Leetcode_crawl/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/xunyang03/Leetcode_crawl/tree/master/0222-count-complete-tree-nodes) |
+| [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
 ## Monotonic Stack
 |  |
 | ------- |
