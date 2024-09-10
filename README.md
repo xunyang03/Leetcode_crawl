@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
+| [0332-reconstruct-itinerary](https://github.com/xunyang03/Leetcode_crawl/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/xunyang03/Leetcode_crawl/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/xunyang03/Leetcode_crawl/tree/master/0513-find-bottom-left-tree-value) |
@@ -330,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/xunyang03/Leetcode_crawl/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/xunyang03/Leetcode_crawl/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
