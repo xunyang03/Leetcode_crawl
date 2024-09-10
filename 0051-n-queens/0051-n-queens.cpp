@@ -31,8 +31,6 @@ public:
             occupied_col.erase(col);
             currentrow[col] = '.';
         }
-
-        return;
     }
     vector<vector<string>> solveNQueens(int n) {
         result.clear();
