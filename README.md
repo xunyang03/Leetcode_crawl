@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/xunyang03/Leetcode_crawl/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/xunyang03/Leetcode_crawl/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/xunyang03/Leetcode_crawl/tree/master/0046-permutations) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xunyang03/Leetcode_crawl/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/xunyang03/Leetcode_crawl/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xunyang03/Leetcode_crawl/tree/master/0160-intersection-of-two-linked-lists) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xunyang03/Leetcode_crawl/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/xunyang03/Leetcode_crawl/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/xunyang03/Leetcode_crawl/tree/master/0046-permutations) |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/xunyang03/Leetcode_crawl/tree/master/0332-reconstruct-itinerary) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/xunyang03/Leetcode_crawl/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
