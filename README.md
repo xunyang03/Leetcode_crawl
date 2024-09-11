@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/xunyang03/Leetcode_crawl/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xunyang03/Leetcode_crawl/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
 | [0454-4sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
+| [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
 ## Graph
 |  |
 | ------- |
@@ -354,5 +356,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
