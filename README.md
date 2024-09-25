@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/xunyang03/Leetcode_crawl/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/xunyang03/Leetcode_crawl/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/xunyang03/Leetcode_crawl/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/xunyang03/Leetcode_crawl/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/xunyang03/Leetcode_crawl/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/xunyang03/Leetcode_crawl/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/xunyang03/Leetcode_crawl/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
