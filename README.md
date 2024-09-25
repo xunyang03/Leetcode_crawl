@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/xunyang03/Leetcode_crawl/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/xunyang03/Leetcode_crawl/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/xunyang03/Leetcode_crawl/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/xunyang03/Leetcode_crawl/tree/master/0051-n-queens) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/xunyang03/Leetcode_crawl/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/xunyang03/Leetcode_crawl/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/xunyang03/Leetcode_crawl/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
