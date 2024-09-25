@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/xunyang03/Leetcode_crawl/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/xunyang03/Leetcode_crawl/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/xunyang03/Leetcode_crawl/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/xunyang03/Leetcode_crawl/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/xunyang03/Leetcode_crawl/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/xunyang03/Leetcode_crawl/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/xunyang03/Leetcode_crawl/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
 | [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
