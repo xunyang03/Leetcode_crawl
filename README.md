@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
 | [0654-maximum-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0654-maximum-binary-tree) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/xunyang03/Leetcode_crawl/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xunyang03/Leetcode_crawl/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xunyang03/Leetcode_crawl/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/xunyang03/Leetcode_crawl/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -370,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/xunyang03/Leetcode_crawl/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
