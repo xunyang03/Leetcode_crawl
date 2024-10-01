@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
 | [0654-maximum-binary-tree](https://github.com/xunyang03/Leetcode_crawl/tree/master/0654-maximum-binary-tree) |
+| [0890-lemonade-change](https://github.com/xunyang03/Leetcode_crawl/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/xunyang03/Leetcode_crawl/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
@@ -376,5 +377,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/xunyang03/Leetcode_crawl/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/xunyang03/Leetcode_crawl/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/xunyang03/Leetcode_crawl/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/xunyang03/Leetcode_crawl/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
