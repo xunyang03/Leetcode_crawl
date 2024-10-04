@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/xunyang03/Leetcode_crawl/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/xunyang03/Leetcode_crawl/tree/master/0491-non-decreasing-subsequences) |
+| [0768-partition-labels](https://github.com/xunyang03/Leetcode_crawl/tree/master/0768-partition-labels) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/xunyang03/Leetcode_crawl/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/xunyang03/Leetcode_crawl/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/xunyang03/Leetcode_crawl/tree/master/0768-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/xunyang03/Leetcode_crawl/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/xunyang03/Leetcode_crawl/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/xunyang03/Leetcode_crawl/tree/master/0459-repeated-substring-pattern) |
+| [0768-partition-labels](https://github.com/xunyang03/Leetcode_crawl/tree/master/0768-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/xunyang03/Leetcode_crawl/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xunyang03/Leetcode_crawl/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/xunyang03/Leetcode_crawl/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/xunyang03/Leetcode_crawl/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/xunyang03/Leetcode_crawl/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Binary Indexed Tree
