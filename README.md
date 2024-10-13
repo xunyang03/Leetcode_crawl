@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/xunyang03/Leetcode_crawl/tree/master/0202-happy-number) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
+| [0738-monotone-increasing-digits](https://github.com/xunyang03/Leetcode_crawl/tree/master/0738-monotone-increasing-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/xunyang03/Leetcode_crawl/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xunyang03/Leetcode_crawl/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/xunyang03/Leetcode_crawl/tree/master/0455-assign-cookies) |
+| [0738-monotone-increasing-digits](https://github.com/xunyang03/Leetcode_crawl/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/xunyang03/Leetcode_crawl/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/xunyang03/Leetcode_crawl/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/xunyang03/Leetcode_crawl/tree/master/1047-maximize-sum-of-array-after-k-negations) |
