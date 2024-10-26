@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/xunyang03/Leetcode_crawl/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/xunyang03/Leetcode_crawl/tree/master/0202-happy-number) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
 | [0738-monotone-increasing-digits](https://github.com/xunyang03/Leetcode_crawl/tree/master/0738-monotone-increasing-digits) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/xunyang03/Leetcode_crawl/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/xunyang03/Leetcode_crawl/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/xunyang03/Leetcode_crawl/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xunyang03/Leetcode_crawl/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/xunyang03/Leetcode_crawl/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/xunyang03/Leetcode_crawl/tree/master/0343-integer-break) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/xunyang03/Leetcode_crawl/tree/master/0406-queue-reconstruction-by-height) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/xunyang03/Leetcode_crawl/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
